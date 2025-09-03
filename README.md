@@ -12,3 +12,6 @@ Open `index.html` in your browser.
 ##  Preview
 
 ![Landing Page Screenshot](Screenshots/Screenshot1.png)
+![Landing Page Screenshot](Screenshots/Screenshot2.png)
+![Landing Page Screenshot](Screenshots/Screenshot3.png)
+![Landing Page Screenshot](Screenshots/Screenshot4.png)
