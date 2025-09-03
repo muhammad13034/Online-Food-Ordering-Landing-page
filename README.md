@@ -8,3 +8,7 @@ A simple and responsive landing page for an online food ordering website.
 
 ## How to View
 Open `index.html` in your browser.
+
+##  Preview
+
+![Landing Page Screenshot]("Screenshot (40).png")
